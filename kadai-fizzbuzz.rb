@@ -14,4 +14,5 @@ def fizzbuzz(a)
   end
 end
 
-fizzbuzz(10)
+fizzbuzz(90)
+#上記引数に整数を入れる
